@@ -10,7 +10,7 @@ if colour=='blue' and number==1:
     print('You will be attacked by a bear')
 
 elif colour=='blue' and number==2:
-    print('You will be attacked by a alligator')
+    print('You will be attacked by an alligator')
 
 elif colour=='blue' and number==3:
     print('You will be attacked by a shark')
@@ -29,5 +29,7 @@ elif colour=='red' and number==3:
     
 else:
     print('You will be attacked by a lion')
+    
+    
     
     
