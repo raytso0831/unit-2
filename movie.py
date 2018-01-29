@@ -5,10 +5,10 @@
 age=int(input(' Enter your age:'))
 
 if age > 17:
-    print(age, 'You can watch Rated-R movies')
+    print(age, 'You can watch Rated-R movies.')
     
-elif age > 13:
-    print(age, ' You can watch PG-13 movies')
+elif age > 12:
+    print(age, ' You can watch PG-13 movies.')
 
 else:
-    print(age, ' You can watch PG movies')
+    print(age, ' You can watch PG movies.')
