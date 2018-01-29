@@ -8,7 +8,7 @@ if age > 17:
     print(age, 'You can watch Rated-R movies')
     
 elif age > 13:
-    print(num, ' You can watch PG-13 movies')
+    print(age, ' You can watch PG-13 movies')
 
 else:
     print(age, ' You can watch PG movies')
