@@ -5,7 +5,7 @@
 grade=float(input(' Enter your grade:'))
 
 if grade > 90:
-    print(grade, 'You got a A:')
+    print(grade, 'You got an A:')
 
 elif grade > 80:
     print(grade, 'You got a B:')
