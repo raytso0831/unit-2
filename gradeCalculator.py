@@ -2,7 +2,7 @@
 #1/29/18
 #gradeCalculator.py
 
-grade=float(input(' Enter your grade:'))
+grade=float(input(' Enter your grade: '))
 
 if grade > 90:
     print(grade, 'You got an A:')
