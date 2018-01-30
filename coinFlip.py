@@ -4,16 +4,10 @@
 
 from random import randint 
 
-num=randint(1,5)
+num=randint(1,2)
 
 if num==1:
     print( num,' It is heads')
-elif num==2:
+else:
     print(num,' It is tails')
     
-elif num==3:
-    print(num,' It is heads')
-elif num==4:
-    print(num,'It is tails')
-else:
-     print(num,'It is heads')
