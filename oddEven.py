@@ -10,6 +10,6 @@ if num>0 and num%2==0:
 elif num>0 and num&2!=0:
     print(num, 'The number is positive and its odd:(')
 elif num<0 and num%2==0:
-      print(num, ' The number is negative and its even')
+    print(num, ' The number is negative and its even')
 else:
     print(num, ' The number is negative and its odd')
