@@ -14,10 +14,10 @@ elif num==2:
     print(' You’re dumber than snake mittens.')
     
 elif num==3:
-    print(' You are so stupid')
+    print('You are more boring than a piece of cardboard')
 elif num==4:
-    print('You are dumb')
+    print('You are a waste of air')
 else:
-     print('You onced own a dog that was smarter than you')
+     print('You onced own a pig that was smarter than you')
 
 
