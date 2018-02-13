@@ -24,10 +24,10 @@ if 'p' in word1 and 'p' not in word2:
     print('Only the first one has the letter p')
 elif 'p' not in word1 and 'p'in word2:
     print('Only the second one has the letter p')
-elif:'p' not in word1 and 'p' in word2
-    print ('None of them has the letter p')
+elif 'p' not in word1 and 'p'not in word2:
+    print('None of them have the letter p')
 else:
-    print('Both of them have the letter p')
+    print ('both of them have the letter p')
 
 num_1=input('enter a number:')
 num_2=input('enter a number:')
